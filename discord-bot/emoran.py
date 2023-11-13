@@ -160,5 +160,5 @@ async def on_message(message: Message):
             
 
 if __name__ == "__main__":
-    bot.run(("MTA3MjE2NDQ5MTA2NTgxOTI1Nw.G2JGWC.pMyl0h4uGLkonfqxMtA0enJdQI_Y491Yw05pOY"), root_logger=True)
+    bot.run((""), root_logger=True)
     
